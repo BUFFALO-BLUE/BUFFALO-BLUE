@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## Studying Cognitive Science and Statistics at the unversty of Connecticut. 
+## 
 <!--
 **BUFFALO-BLUE/BUFFALO-BLUE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
