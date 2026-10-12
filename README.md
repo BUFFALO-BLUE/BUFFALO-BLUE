@@ -1,5 +1,5 @@
 ## Hi there 👋
-Studying Cognitive Science and Statistics at the unversty of Connecticut
+Studying Cognitive Science and Statistics at the University of Connecticut
 
 
 ## 
